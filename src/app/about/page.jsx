@@ -41,7 +41,7 @@ const AboutPage = () => {
             <h1 className="font-bold text-2xl">BIOGRAPHY</h1>
             {/* BIOGRAPHY DESC */}
             <p className="text-lg">
-            I'm an experienced MERN stack developer, transforming ideas into dynamic web experiences. From sculpting sleek back-end functionalities with Node.js and Express to crafting engaging user interfaces using React, I thrive on bringing digital concepts to life. My passion extends beyond the code, diving deep into database design with MongoDB to ensure data integrity and efficiency. With a keen eye for performance optimization and a penchant for staying ahead of technology trends, I'm not just a coder – I'm a creator, dedicated to delivering unique, user-focused solutions that leave a lasting impression.
+            I am an experienced MERN stack developer, transforming ideas into dynamic web experiences. From sculpting sleek back-end functionalities with Node.js and Express to crafting engaging user interfaces using React, I thrive on bringing digital concepts to life. My passion extends beyond the code, diving deep into database design with MongoDB to ensure data integrity and efficiency. With a keen eye for performance optimization and a penchant for staying ahead of technology trends, I'm not just a coder – I am a creator, dedicated to delivering unique, user-focused solutions that leave a lasting impression.
             </p>
             {/* BIOGRAPHY QUOTE */}
             <span className="italic">
