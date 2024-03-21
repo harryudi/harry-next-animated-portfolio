@@ -19,8 +19,8 @@ const Homepage = () => {
         {/* TEXT CONTAINER */}
         <div className="h-1/2 lg:h-full lg:w-1/2 flex flex-col gap-8 items-center justify-center">
           {/* TITLE */}
-          <h1 className="text-4xl md:text-5xl pt-10 font-bold">
-          Making the world a better with lines of codes 💻🌍</h1>
+          <h1 className="text-3xl md:text-4xl pt-10 font-bold">
+          Making the world better with lines of codes 💻🌍</h1>
           {/* DESC */}
           <p className="md:text-xl">
           I am an experienced MERN STACK developer, I incorporate design and functionality to every project I build, ensuring the application or project is well optimized for speed, security, and user friendly!
