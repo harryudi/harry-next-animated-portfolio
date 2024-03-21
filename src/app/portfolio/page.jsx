@@ -8,7 +8,7 @@ const items = [
   {
     id: 1,
     color: "from-red-300 to-blue-300",
-    title: "NEXT.JS Google Meet Clone",
+    title: "NEXT.JS GMeet Clone",
     desc: "Designed an app using Next.js to clone the features of google-meet, using experience in sockets",
     img: "/gm.png",
     link: "https://github.com/harryudi/google-meet-clone",
@@ -16,7 +16,7 @@ const items = [
   {
     id: 2,
     color: "from-blue-300 to-violet-300",
-    title: "React.js WWTBAM Game App",
+    title: "React.js WWTBAM Game",
     desc: "Technologies Used React: A popular JavaScript library for building user interfaces. JavaScript: To handle game logic and interactions.",
     img: "/wwtbam.png",
     link: "https://github.com/harryudi/wwtbam-gameApp",
